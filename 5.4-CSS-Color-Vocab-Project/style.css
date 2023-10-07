@@ -1,0 +1,25 @@
+/* *{
+    background-color: red;
+} */
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color: orange;
+}
+#green{
+    color: green;
+}
+#yellow{
+    color: yellow;
+}
+.color-text{
+    font-weight: normal;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
